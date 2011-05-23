@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-family: sans-serif;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 15%;
+	vertical-align: middle;
+	font-size: 11px;	
+}
+
+img.bloco {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: none;
+}
+
+input.cons {
+	width: 300px;
+}
